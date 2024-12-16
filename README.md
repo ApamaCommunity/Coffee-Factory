@@ -1,10 +1,5 @@
 # Coffee-Factory
 
-### For more information about the project see:
-https://iwiki.eur.ad.sag/display/apama/Coffee+Factory+Blog
-
-
-
 # How to set up the project:
 
 
@@ -12,9 +7,9 @@ https://iwiki.eur.ad.sag/display/apama/Coffee+Factory+Blog
 ###  Designer: 
 
 - Clone the repository to a desired location
-- If you do not have Designer on your machine, use this link to download it: 
-  http://www.apamacommunity.com/downloads/ (under Full version)
-- Open the Project via Designer
+- If you do not have Apama on your machine, use this link to download it: 
+  https://download.cumulocity.com/Apama/ (full edition)
+- Open the Project via Eclipse
 
 
 
@@ -53,7 +48,7 @@ open the folder 'Grafana' in your Designer project and in it you would see a gra
 
 
 # To start the project:
-- In Designer, right click on the project folder.
+- In Eclipse, right click on the project folder.
 - Select 'Run as'
 - Select 'Apama Application'
 
